@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(100, 50, 100);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: white;
+}
+a {
+  color: rgb(200, 100, 220);
+}
+button {
+  background-color: rgb(200, 100, 220);
+}
+form {
+  color: black;
+}
+#jsonp-response {
+  width: 100%;
+  padding: 10px auto;
+  margin: auto auto;
+  text-align: center;
+  border: solid 1px;
+}
+
+#centeredDIV {
+  left: 25%;
+  width: 50%;
+  top: 30%;
+  bottom: 25%;
+  position: fixed;
+  text-align: center;
+}
+#searchBar {
+  position: fixed;
+  left: 35%;
+  width: 30%;
+  top: 45%;
+  bottom: 45%;
+  text-align: center;
+}
